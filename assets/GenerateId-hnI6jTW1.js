@@ -1,0 +1,1 @@
+import{Ct as e}from"./index-BY-wHMHK.js";var t=({prefix:t=`pf-random-id-`,children:n})=>n(e(t));t.displayName=`GenerateId`;export{t};
