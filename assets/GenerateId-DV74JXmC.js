@@ -1,1 +1,0 @@
-import{wt as e}from"./index-C6mlFldD.js";var t=({prefix:t=`pf-random-id-`,children:n})=>n(e(t));t.displayName=`GenerateId`;export{t};
