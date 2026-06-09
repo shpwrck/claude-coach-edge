@@ -1,1 +1,0 @@
-import{Et as e}from"./index-CODW-SXO.js";var t=({prefix:t=`pf-random-id-`,children:n})=>n(e(t));t.displayName=`GenerateId`;export{t};
