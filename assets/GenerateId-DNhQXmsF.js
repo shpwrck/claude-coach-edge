@@ -1,0 +1,1 @@
+import{zt as e}from"./index-FkwViWDR.js";var t=({prefix:t=`pf-random-id-`,children:n})=>n(e(t));t.displayName=`GenerateId`;export{t};
