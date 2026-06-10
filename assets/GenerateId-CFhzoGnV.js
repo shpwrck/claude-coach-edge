@@ -1,1 +1,0 @@
-import{Bt as e}from"./index-BG-UJOaP.js";var t=({prefix:t=`pf-random-id-`,children:n})=>n(e(t));t.displayName=`GenerateId`;export{t};
