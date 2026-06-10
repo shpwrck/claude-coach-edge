@@ -1,0 +1,1 @@
+import{Ht as e}from"./index-CF_Dgl10.js";var t=({prefix:t=`pf-random-id-`,children:n})=>n(e(t));t.displayName=`GenerateId`;export{t};
