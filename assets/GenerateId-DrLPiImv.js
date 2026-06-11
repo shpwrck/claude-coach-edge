@@ -1,1 +1,0 @@
-import{Ut as e}from"./index-S5GL46cO.js";var t=({prefix:t=`pf-random-id-`,children:n})=>n(e(t));t.displayName=`GenerateId`;export{t};
