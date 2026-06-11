@@ -1,0 +1,1 @@
+import{Jt as e}from"./index-Cst4wML8.js";var t=({prefix:t=`pf-random-id-`,children:n})=>n(e(t));t.displayName=`GenerateId`;export{t};
