@@ -1,1 +1,0 @@
-import{Qt as e}from"./index-8D_bee6r.js";var t=({prefix:t=`pf-random-id-`,children:n})=>n(e(t));t.displayName=`GenerateId`;export{t};
