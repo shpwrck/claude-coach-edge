@@ -1,1 +1,0 @@
-import{en as e}from"./index-C3b-3Oai.js";var t=({prefix:t=`pf-random-id-`,children:n})=>n(e(t));t.displayName=`GenerateId`;export{t};
