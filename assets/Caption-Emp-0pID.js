@@ -1,1 +1,0 @@
-import{c as e}from"./Td-rPs8BVdR.js";import{Fn as t,In as n,Pn as r}from"./index-Cul8-a4j.js";var i=t(),a=t=>{var{children:a,className:o}=t,s=n(t,[`children`,`className`]);return(0,i.jsx)(`caption`,Object.assign({className:r(e.tableCaption,o)},s,{children:a}))};a.displayName=`Caption`;export{a as t};
