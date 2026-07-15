@@ -1,0 +1,1 @@
+import{t as e}from"./native-bypass-DoTQIRST.js";export{e as detector};
